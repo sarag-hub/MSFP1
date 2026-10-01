@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Sara Gutiérrez Hernández \[23212734]; L23212734@tijuana.tecnm.mx
 
 Modelado de Sistemas Fisiológicos
 
